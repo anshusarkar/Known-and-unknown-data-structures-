@@ -8,7 +8,7 @@ Non-Linear Data Structures
  * Trees: Hierarchical structure simulating a tree with nodes connected by edges. Useful for representing relationships.
  * Graphs: Model relationships between data elements as nodes connected by edges. Used for social networks, navigation systems, etc.
  * Hash Tables: Offer efficient association lookup. Store key-value pairs and use hashing to locate a value based on its key.
-Other Data Structures
+Other Data Structures (Only tensors and Enums are known to me)
  * Sets: Collections of unique elements, allowing for efficient membership testing and duplicate removal.
  * Tries: Designed for efficient string searching and retrieval, especially prefixes.
  * Bloom Filters: Probabilistic data structures for space-efficient membership testing.
