@@ -18,3 +18,7 @@ Other Data Structures (Only tensors and Enums are known to me)
  * Segment Trees: Efficiently answer range queries on an array.
  * Tensors: Generalize matrices to higher dimensions. Useful for representing multidimensional data.
  * Enums (Enumeration Types): User-defined data types consisting of a set of named constants. Provide a more readable and maintainable way to represent a fixed set of values.
+
+
+here's some other structures 
+"https://youtu.be/6fnmXX8RK0s?si=eFBo06Bme6o50nZg"
